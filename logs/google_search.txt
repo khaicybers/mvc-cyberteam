@@ -1,0 +1,31 @@
+MohinhMVC:
+    - https://giacongweb.com/bai-viet/phan-3-to-chuc-cau-truc-va-mo-hinh-mvc-cho-php-framework.html
+    - Source code shop : https://www.youtube.com/watch?v=KpPfAriM3BU&list=PLWTu87GngvNwRxrFZ_wbxfvHHed14H5RC&index=64
+Permission :
+    - PHP Rbac
+    - https://www.tonymarston.net/php-mysql/role-based-access-control.html
+        + https://www.tonymarston.net/php-mysql/radicore-security.html
+        + https://www.wdb24.com/simple-role-based-access-control-example-using-php-and-mysqli/
+    - https://www.youtube.com/watch?v=4N1ufhv4kzQ&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34&index=2
+    - ACL: https://www.developer.com/lang/php/creating-a-custom-acl-in-php.html
+    - https://stackoverflow.com/questions/3897346/user-groups-and-their-permissions-to-manage-site
+
+
+send mail:
+    - https://www.hoangweb.com/develop/php/gui-ma-kich-hoat-tai-khoan-qua-email-php
+    - https://github.com/PHPMailer/PHPMailer
+    - https://www.youtube.com/watch?v=fyCh7ygWfvE
+
+
+Validation form:
+    - https://codewithawa.com/posts/form-validation-with-javascript
+
+None:
+    - https://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database
+
+User online:
+    - http://laptrinhphp.info/du-an-thuc-te/Xay-dung-module-dem-so-nguoi-dang-online-bang-PHP-MySQL.html
+
+Confirm Dialog when i close the browser?
+    - https://stackoverflow.com/questions/10311341/confirmation-before-closing-of-tab-browser
+    - https://stackoverflow.com/questions/4427714/confirm-dialog-when-i-close-the-browser
