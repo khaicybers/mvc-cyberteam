@@ -2,13 +2,13 @@
   "name": "khaicybers/MVC-cyberteam",
   "description": "new-mvc-shop project is a simple project to help you understand the MVC model in PHP",
   "keywords": [
-    "new-mvc-shop",
+    "MVC-cyberteam",
     "mvc",
     "php",
     "php-mvc",
-    "php-mvc-shop",
-    "php-mvc-shop-project",
-    "mvc-shop"
+    "php-cyberteam",
+    "php-MVC-cyberteam-project",
+    "MVC"
   ],
   "type": "project",
   "homepage": "https://cv.hadoki.site",
